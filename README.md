@@ -31,5 +31,5 @@ Examplo:
   "AllowedHosts": "*"
 }
 
-
+Se tudo for feito corretamente a solução pode ser executada sem erros.
 
